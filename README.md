@@ -9,3 +9,4 @@
 - 📫 How to reach me: ... @agnamihira on Twitter
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I always have on my desk a "Non context" notebook for random notes/ideas/thoughts.  
+![1_ZS99FwqwTSBX-XYjjWt2wA](https://user-images.githubusercontent.com/11306075/185730258-66ba7ce4-d786-4561-af87-60f5ea48b2ba.gif)
