@@ -1,10 +1,9 @@
 ### Here is what I'm exploring now 👋
 
 
-- 🔭 I’m currently working on Web3
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on digital inclusion and community projects
-- 💬 Ask me about Anything
+- 🔭 I’m currently building verza.io
+- 🌱 Love gaming!
+- 👯 Developer Experience
 - 📫 How to reach me: @agnamihira on Twitter
 - ⚡ Fun fact: I always have on my desk a "Non context" notebook for random notes/ideas/thoughts.  
 
