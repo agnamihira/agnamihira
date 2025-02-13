@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently building the best DX through AI products.
 - 🌱 Love gaming!
-- ⚡ Currently experimenting with ways to design better interactions and workflows — GitHub is my playground! 
+- ⚡ Currently experimenting with ways to design better experiences and prototyping products with AI — GitHub is my playground! 
 - 📫 How to reach me: @agnamihira on X
 - 💎 Always looking for Gems! 💎
 
